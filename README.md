@@ -162,16 +162,15 @@ Bạn có thể đóng góp bằng cách:
    ```bash
    git checkout -b feature/your-feature
    
-Commit thay đổi:
+   Commit thay đổi:
 
-```bash
-git commit -m 'Add your feature'
+   ```bash
+   git commit -m 'Add your feature'
 
+   Push branch:
 
-Push branch:
-
-```bash
-git push origin feature/your-feature
+   ```bash
+   git push origin feature/your-feature
 
 
 Liên hệ
