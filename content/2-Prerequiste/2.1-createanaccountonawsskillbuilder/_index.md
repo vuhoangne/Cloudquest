@@ -13,7 +13,7 @@ Steps to create an AWS Skill Builder
 
 1. Open the app or visit the official [AWS Skill Builder](https://explore.skillbuilder.aws/learn) website
 
-![Create AWS Skill Builder account](/images/2.prerequisite/2.1-Createanaccountonawsskillbuilder/01-createAWSskillbuilder.png?width=90pc)
+![Create AWS Skill Builder account](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/01-createAWSskillbuilder.png?width=90pc)
 
 2. Select **Create a new AWS Skill Builder account**
 

@@ -13,7 +13,7 @@ Các bước tạo tài khoản AWS Skill Builder
 
 1. Mở ứng dụng hoặc truy cập trang web chính thức [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
    
-![Tạo tài khoản AWS Skill Builder](/images/2.prerequisite/2.1-Createanaccountonawsskillbuilder/01-createAWSskillbuilder.png?width=90pc)
+![Tạo tài khoản AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/01-createAWSskillbuilder.png?width=90pc)
 
 2. Chọn **Create a new AWS Skill Builder account**
 
