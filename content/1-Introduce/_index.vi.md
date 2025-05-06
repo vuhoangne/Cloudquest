@@ -5,7 +5,7 @@ weight : 1
 chapter : false
 pre : " <b> 1. </b> "
 ---
-![Cloud Quest](/images/1.Introduce/01-CloudQuest.png)
+![Cloud Quest](/images/1.Introduce/01-CloudQuest.png?width=90pc)
 
 **AWS Cloud Quest: Cloud Practitioner** là một trò chơi nhập vai 3D hoàn toàn mới, được thiết kế bởi **AWS Training and Certification**, nhằm giúp những người học được trải nghiệm AWS thực tế.
 

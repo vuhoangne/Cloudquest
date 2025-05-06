@@ -18,4 +18,4 @@ pre : " <b> 15.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice để thực hiện lab
 
-![Plan](/images/15-highlyavailable/15.2-plan/1-plan.png)
+![Plan](/images/15-highlyavailable/15.2-plan/1-plan.png?width=90pc)

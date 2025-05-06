@@ -28,16 +28,16 @@ After receiving the Assignment 3 award, continue to perform the following steps 
 - In **Networking Concepts**, select **ROUTE AND GO**
 - Click the icon as shown
 
-![VPC](/images/7-vpc/1-vpc.png)
+![VPC](/images/7-vpc/1-vpc.png?width=90pc)
 
 2. View the **Rewards** and click **NEXT**
 
-![VPC](/images/7-vpc/2-vpc.png)
+![VPC](/images/7-vpc/2-vpc.png?width=90pc)
 
 3. View the **Learning Objects** and click **ACCEPT**
 
-![VPC](/images/7-vpc/3-vpc.png)
+![VPC](/images/7-vpc/3-vpc.png?width=90pc)
 
 4. Click **START** to proceed to the next steps
 
-![VPC](/images/7-vpc/4-vpc.png)
+![VPC](/images/7-vpc/4-vpc.png?width=90pc)

@@ -14,7 +14,7 @@ To switch to **Plan**, players take the following steps after **Learn**
 
 1. Select **Plan** to enter the **Plan** interface
 
-![Plan](/images/6-ec2connect/6.2-plan/1-plan.png)
+![Plan](/images/6-ec2connect/6.2-plan/1-plan.png?width=90pc)
 
 2. In the **Plan** interface
 
@@ -22,4 +22,4 @@ To switch to **Plan**, players take the following steps after **Learn**
 - Read **DIY Goals**
 - Prepare for the **Practice** step
 
-![Plan](/images/6-ec2connect/6.2-plan/2-plan.png)
+![Plan](/images/6-ec2connect/6.2-plan/2-plan.png?width=90pc)

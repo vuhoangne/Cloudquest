@@ -16,20 +16,20 @@ After completing the lab, the player does **DIY**
 
 - Select **DIY**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/1-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/1-diy.png?width=90pc)
 
 2. In the **DIY** interface
 
 - Read **DIY ACTIVITIES**
 - Read **SOLUTION VALIDATION METHOD**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/2-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/2-diy.png?width=90pc)
 
 3. In the **Amazon S3** interface
 
 - Select **Website-bucket-xxxxxx**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/3-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/3-diy.png?width=90pc)
 
 4. In the **Website-bucket-xxxxxx** interface
 
@@ -37,24 +37,24 @@ After completing the lab, the player does **DIY**
 - Select **Actions**
 - Select **Rename object**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/5-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/5-diy.png?width=90pc)
 
 5. In the **Website-bucket-xxxxxx** interface
 
 - Rename **index.html** to ```waves.html```
 - Select **Save changes**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/6-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/6-diy.png?width=90pc)
 
 6. In the **Website-bucket-xxxxxx** interface
 
 - Check the renamed object result
 
-![DIY](/images/4-staticwebhosting/4.4-diy/7-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/7-diy.png?width=90pc)
 
 - Copy the name **Website-bucket-xxxxxx**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/8-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/8-diy.png?width=90pc)
 
 7. In the **DIY** interface
 
@@ -62,23 +62,23 @@ After completing the lab, the player does **DIY**
 - After selecting **VALIDATE**, if the **VALIDATION MESSAGE** shows a green message: *"you did it....."*, then the task is completed
 - Select **EXIT** to exit
 
-![DIY](/images/4-staticwebhosting/4.4-diy/9-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/9-diy.png?width=90pc)
 
 8. In the city interface
 
 - Select **ASSIGNMENTS**
 - Select **COLLECT**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/10-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/10-diy.png?width=90pc)
 
 9. Select **NEXT**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/11-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/11-diy.png?width=90pc)
 
 10. Select **COLLECT**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/12-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/12-diy.png?width=90pc)
 
 11. Congratulations to the player for receiving the reward
 
-![DIY](/images/4-staticwebhosting/4.4-diy/13-diy.png)
+![DIY](/images/4-staticwebhosting/4.4-diy/13-diy.png?width=90pc)

@@ -24,15 +24,16 @@ Sau khi nhận thưởng Assignment 2 tiếp tục thực hiện các bước sa
 
 1. Trong **ASSIGNMENT**, chọn **ROUTE AND GO**
 
-![EC2 Connect](/images/6-ec2connect/1-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/1-ec2connect.png?width=90pc)
 
 2. Đọc **Computing Solutions** và chọn **ACCEPT**
 
-![EC2 Connect](/images/6-ec2connect/2-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/2-ec2connect.png?width=90pc)
 
 3. Chọn **Chọn START**
-![EC2 Connect](/images/6-ec2connect/3-ec2connect.png)
+
+![EC2 Connect](/images/6-ec2connect/3-ec2connect.png?width=90pc)
 
 4. Chuẩn bị bắt đầu **Learn**
 
-![EC2 Connect](/images/6-ec2connect/4-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/4-ec2connect.png?width=90pc)

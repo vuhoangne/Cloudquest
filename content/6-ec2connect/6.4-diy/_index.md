@@ -15,14 +15,14 @@ After completing the lab, the player does **DIY**
 
 1. Select **DIY**
 
-![DIY](/images/6-ec2connect/6.4-diy/1-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/1-diy.png?width=90pc)
 
 2. In the **DIY** interface:
 
 - Read **DIY ACTIVITIES**
 - Read **SOLUTION VALIDATION METHOD**
 
-![DIY](/images/6-ec2connect/6.4-diy/2-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/2-diy.png?width=90pc)
 
 3. For this **DIY**, we will **Change the Amazon EC2 instance type to a larger (m4.large) general purpose instance**.
 
@@ -31,49 +31,50 @@ After completing the lab, the player does **DIY**
 - Select **Instance settings**
 - Choose **Change instance type**
 
-![DIY](/images/6-ec2connect/6.4-diy/3-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/3-diy.png?width=90pc)
 
 4. In the **Change instance type** interface:
 
 - Select **m4.large**
 
-![DIY](/images/6-ec2connect/6.4-diy/4-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/4-diy.png?width=90pc)
 
 5. In **Choose an Amazon Machine Image (AMI)**
 
 - Click **Change**
 
-![DIY](/images/6-ec2connect/6.4-diy/5-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/5-diy.png?width=90pc)
 
 6. In **Instance**:
 
 - Copy the **Instance ID**
 
-![DIY](/images/6-ec2connect/6.4-diy/6-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/6-diy.png?width=90pc)
 
 7. In **DIY**:
 
 - Paste the Instance ID
 - Click **VALIDATE**
 
-![DIY](/images/6-ec2connect/6.4-diy/7-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/7-diy.png?width=90pc)
 
 8. A green message appears: "**you did it...**", which means the task is completed
 
-![DIY](/images/6-ec2connect/6.4-diy/8-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/8-diy.png?width=90pc)
 
 9. In the city interface:
 
 - In **Assignments**, click **Collect**
 
-![DIY](/images/6-ec2connect/6.4-diy/9-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/9-diy.png?width=90pc)
 
 10. Click **Collect**
 
-![DIY](/images/6-ec2connect/6.4-diy/10-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/10-diy.png?width=90pc)
 
 11. **CONGRATULATIONS**
 
 - Congratulations on completing the **Computing Solutions** lab
 
-![DIY](/images/6-ec2connect/6.4-diy/11-diy.png)
+![DIY](/images/6-ec2connect/6.4-diy/11-diy.png?width=90pc)
+

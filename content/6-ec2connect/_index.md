@@ -14,16 +14,16 @@ After receiving the Assignment 2 award, continue to perform the following steps 
 
 1. In **ASSIGNMENT**, select **ROUTE AND GO**
 
-![EC2 Connect](/images/6-ec2connect/1-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/1-ec2connect.png?width=90pc)
 
 2. Read **Computing Solutions** and select **ACCEPT**
 
-![EC2 Connect](/images/6-ec2connect/2-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/2-ec2connect.png?width=90pc)
 
 3. Select **START**
 
-![EC2 Connect](/images/6-ec2connect/3-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/3-ec2connect.png?width=90pc)
 
 4. Get ready to begin **Learn**
 
-![EC2 Connect](/images/6-ec2connect/4-ec2connect.png)
+![EC2 Connect](/images/6-ec2connect/4-ec2connect.png?width=90pc)

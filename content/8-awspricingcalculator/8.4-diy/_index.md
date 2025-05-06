@@ -16,43 +16,43 @@ After completing the lab, the player does **DIY**
 - Read **DIY ACTIVITIES**  
 - Read **SOLUTION VALIDATION METHOD**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/0-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/0-diy.png?width=90pc)
 
 2. Go to [AWS Pricing Calculator](https://calculator.aws/#/)
 
 - Click **Create estimate**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/1-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/1-diy.png?width=90pc)
 
 3. In **My Estimate**
 
 - Click **Create group**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/2-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/2-diy.png?width=90pc)
 
 4. In **Add group**  
 - In **Group name**, enter ```Web Servers```  
 - Click **Create group**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/3-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/3-diy.png?width=90pc)
 
 5. In the **Web Servers** interface  
 - Click **Add service**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/4-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/4-diy.png?width=90pc)
 
 6. In **Add service**  
 - Search for **EC2**  
 - Click **Configure**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/5-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/5-diy.png?width=90pc)
 
 7. In **Configure Amazon EC2**  
 - In **Description**, enter ```Web Server Estimate```  
 - For **Region**, select **US East (N. Virginia)**  
 - In **EC2 instance specifications**, select **Linux**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/6-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/6-diy.png?width=90pc)
 
 8. In the **Workload** interface  
 - Select **Daily spike traffic**  
@@ -61,21 +61,21 @@ After completing the lab, the player does **DIY**
 - **Peak**: enter ```4```  
 - **Duration of peak**: enter ```8``` and ```0```
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/7-diy.png)  
-![DIY](/images/8-awspricingcalculator/8.4-diy/8-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/7-diy.png?width=90pc)  
+![DIY](/images/8-awspricingcalculator/8.4-diy/8-diy.png?width=90pc)
 
 9. In **EC2 Instances**  
 - Select **t2.micro**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/9-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/9-diy.png?width=90pc)
 
 10. In **Pricing strategy**  
 - For **Pricing model**, select **On-demand**  
 - Click **Show calculations**  
 - Click **estimate workload hours**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/10-diy.png)  
-![DIY](/images/8-awspricingcalculator/8.4-diy/11-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/10-diy.png?width=90pc)  
+![DIY](/images/8-awspricingcalculator/8.4-diy/11-diy.png?width=90pc)
 
 11. In **Amazon Elastic Block Storage (EBS)**  
 - For **Storage for each EC2 instance**, select **General Purpose SSD (gp2)**  
@@ -83,11 +83,11 @@ After completing the lab, the player does **DIY**
 - **Snapshot Frequency**: enter ```Weekly```  
 - **Amount changed per snapshot**: enter ```1```
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/12-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/12-diy.png?width=90pc)
 
 12. View the **Estimated workload hours**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/13-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/13-diy.png?width=90pc)
 
 13. In **Amazon Elastic Block Storage (EBS)**  
 - **Inbound Data Transfer**: select **Internet (free)**  
@@ -97,22 +97,22 @@ After completing the lab, the player does **DIY**
 - Enter 100  
 - Select **TB per month**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/14-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/14-diy.png?width=90pc)
 
 14. Click **Show calculations**  
 - Then click **Save and add service**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/15-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/15-diy.png?width=90pc)
 
 15. In the **Web Servers** interface  
 - Click **Share**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/16-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/16-diy.png?width=90pc)
 
 16. In the **Save estimate** interface  
 - Click **Copy public link**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/17-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/17-diy.png?width=90pc)
 
 17. After **Copy public link**  
 - Go to the **DIY** interface  
@@ -121,21 +121,21 @@ After completing the lab, the player does **DIY**
 - In **VALIDATION MESSAGE**, if it shows **you did it!...**, the **DIY** is completed  
 - Then click **EXIT** to leave
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/18-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/18-diy.png?width=90pc)
 
 18. Back at the city interface  
 - Go to **ASSIGNMENT**, click **COLLECT**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/19-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/19-diy.png?width=90pc)
 
 19. Click **NEXT**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/20-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/20-diy.png?width=90pc)
 
 20. Click **COLLECT**
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/21-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/21-diy.png?width=90pc)
 
 21. Congratulations! You’ve earned your reward!
 
-![DIY](/images/8-awspricingcalculator/8.4-diy/22-diy.png)
+![DIY](/images/8-awspricingcalculator/8.4-diy/22-diy.png?width=90pc)

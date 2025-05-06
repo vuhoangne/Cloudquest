@@ -13,17 +13,17 @@ Bài lab số 6 của **AWS Cloud Quest: Cloud Practitioner** là **Connecting A
 
 - Chọn **ROUTE AND GO**
 
-![VPC connect](/images/9.-connectvpc/1-connectvpc.png)
+![VPC connect](/images/9.-connectvpc/1-connectvpc.png?width=90pc)
 
 2. Chọn biểu tượng **!**
 
-![VPC connect](/images/9.-connectvpc/2-connectvpc.png)
+![VPC connect](/images/9.-connectvpc/2-connectvpc.png?width=90pc)
 
 3. Ở giao diện **Connecting VPCs**
 
 - Xem **Rewards**
 - Chọn **START** để đến **LEARN**
 
-![VPC connect](/images/9.-connectvpc/3-connectvpc.png)
+![VPC connect](/images/9.-connectvpc/3-connectvpc.png?width=90pc)
 
 

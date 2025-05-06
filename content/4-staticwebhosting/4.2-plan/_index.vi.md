@@ -18,5 +18,5 @@ pre : " <b> 4.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice** để tiến hành thực hiện bài lab
 
-![Plan](/images/4-staticwebhosting/4.2-plan/01-plan.png)
+![Plan](/images/4-staticwebhosting/4.2-plan/1-plan.png?width=90pc)
 

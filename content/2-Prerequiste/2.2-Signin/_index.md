@@ -12,28 +12,28 @@ There is an option to log in to **AWS Training and Certification**:
 
 Steps to sign in to **AWS Training and Certification**:
 
-1. Go to [AWS Skill Builder](https://explore.skillbuilder.aws/learn/signin)  
+1. Go to [AWS Skill Builder](https://explore.skillbuilder.aws/learn/signin?width=90pc)  
 2. Click **SIGN IN TO AWS SKILL BUILDER**
 
-![Sign in](/images/2.prerequisite/2.2-Signin/01-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/01-Signin.png?width=90pc)
 
 3. The **AWS Training and Certification** login interface will appear, select **Create or Sign in**
 
-![Sign in](/images/2.prerequisite/2.2-Signin/02-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/02-Signin.png?width=90pc)
 
 - Choose the option **You already have an AWS Builder ID**
 
-![Sign in](/images/2.prerequisite/2.2-Signin/03-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/03-Signin.png?width=90pc)
 
 - Enter the registered account email
 
-![Sign in](/images/2.prerequisite/2.2-Signin/04-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/04-Signin.png?width=90pc)
 
 - Enter your **Password**  
 - Then, click **Sign in**
 
-![Sign in](/images/2.prerequisite/2.2-Signin/05-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/05-Signin.png?width=90pc)
 
 4. After logging in, the **AWS Training and Certification** interface will appear.
 
-![Sign in](/images/2.prerequisite/2.2-Signin/06-Signin.png)
+![Sign in](/images/2.prerequisite/2.2-Signin/06-Signin.png?width=90pc)

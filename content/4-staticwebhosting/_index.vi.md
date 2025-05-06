@@ -25,11 +25,11 @@ Trong bước này, chúng ta sẽ thực hiện thử thách đầu tiên trong
 - Chọn **ASSIGNMENT**
 - Trong phần **Cloud Computing Essentials**, chọn **ROUTE AND GO**
 
-![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/01-webhosting.png)
+![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/1-webhosting.png?width=90pc)
 
 2. Chọn biểu tượng **!** để chuyển sang bước tiếp theo
 
-![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/02-webhosting.png)
+![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/2-webhosting.png?width=90pc)
 
 3. Trong giao diện chuẩn bị:
 
@@ -37,14 +37,14 @@ Trong bước này, chúng ta sẽ thực hiện thử thách đầu tiên trong
 - Xem **Mục tiêu học tập**
 - Chọn **SKIP**
 
-![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/03-webhosting.png)
+![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/3-webhosting.png?width=90pc)
 
 4. Chọn **START**
 
-![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/04-webhosting.png)
+![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/4-webhosting.png?width=90pc)
 
 5. Chào mừng đến với **Solution Center**
 
-![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/05-webhosting.png)
+![Lưu trữ Web Tĩnh](/images/4-staticwebhosting/5-webhosting.png?width=90pc)
 
 

@@ -14,7 +14,7 @@ pre : " <b> 5.2 </b> "
 
 1. Sau khi hoàn thành **Learn**, chọn **Plan**
 
-![Plan](/images/5-amazonec2/5.2-plan/1-plan.png)
+![Plan](/images/5-amazonec2/5.2-plan/1-plan.png?width=90pc)
 
 2. Sau khi vào giao diện **Plan**
 
@@ -22,6 +22,6 @@ pre : " <b> 5.2 </b> "
 - Đọc **DIY Goals**
 - Chuẩn bị cho bước **Practice**
   
-![Plan](/images/5-amazonec2/5.2-plan/2-plan.png)
+![Plan](/images/5-amazonec2/5.2-plan/2-plan.png?width=90pc)
 
 

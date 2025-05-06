@@ -18,4 +18,4 @@ pre : " <b> 10.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice** để thực hiện bài lab
 
-![Plan](/images/10-database/10.2-plan/1-plan.png)
+![Plan](/images/10-database/10.2-plan/1-plan.png?width=90pc)

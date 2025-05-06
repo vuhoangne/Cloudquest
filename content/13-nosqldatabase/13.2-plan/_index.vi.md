@@ -18,4 +18,4 @@ pre : " <b> 13.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice** để thực hiện lab
 
-![Plan](/images/13-nosqldatabase/13.2-plan/1-plan.png)
+![Plan](/images/13-nosqldatabase/13.2-plan/1-plan.png?width=90pc)

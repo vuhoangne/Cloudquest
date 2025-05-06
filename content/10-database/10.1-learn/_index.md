@@ -17,34 +17,34 @@ pre : " <b> 10.1 </b> "
 
 - Read step 1 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/1-learn.png)
+![Learn](/images/10-database/10.1-learn/1-learn.png?width=90pc)
 
 2. In the **Learn** interface:
 
 - Read step 2 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/2-learn.png)
+![Learn](/images/10-database/10.1-learn/2-learn.png?width=90pc)
 
 3. In the **Learn** interface:
 
 - Read step 3 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/3-learn.png)
+![Learn](/images/10-database/10.1-learn/3-learn.png?width=90pc)
 
 4. In the **Learn** interface:
 
 - Read step 4 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/4-learn.png)
+![Learn](/images/10-database/10.1-learn/4-learn.png?width=90pc)
 
 5. In the **Learn** interface:
 
 - Read step 5 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/5-learn.png)
+![Learn](/images/10-database/10.1-learn/5-learn.png?width=90pc)
 
 6. In the **Learn** interface:
 
 - Read step 6 of the **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/6-learn.png)
+![Learn](/images/10-database/10.1-learn/6-learn.png?width=90pc)

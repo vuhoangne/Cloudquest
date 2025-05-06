@@ -14,13 +14,13 @@ Bài lab số 10 của **AWS Cloud Quest: Cloud Practitioner** là **Creating an
 - Chọn **ASSIGNMENTS**
 - Chọn **ROUTE AND GO**
 
-![NoSQL database](/images/13-nosqldatabase/1-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/1-nosqldatabase.png?width=90pc)
 
 2. Trong giao diện thành phố
 
 - Chọn **!**
 
-![NoSQL database](/images/13-nosqldatabase/2-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/2-nosqldatabase.png?width=90pc)
 
 3. Trong giao diện **First NoSQL Database**
 
@@ -28,10 +28,10 @@ Bài lab số 10 của **AWS Cloud Quest: Cloud Practitioner** là **Creating an
 - Chọn **ACCEPT**
 
 
-![NoSQL database](/images/13-nosqldatabase/3-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/3-nosqldatabase.png?width=90pc)
 
 4. Chọn **GO TO SOLUTION CENTER**
 
 
-![NoSQL database](/images/13-nosqldatabase/4-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/4-nosqldatabase.png?width=90pc)
 

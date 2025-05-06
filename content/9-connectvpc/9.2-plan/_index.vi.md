@@ -20,5 +20,5 @@ pre : " <b> 9.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice** để đến giao diện **Practice**
 
-![Plan](/images/9.-connectvpc/9.2-plan/1-plan.png)
+![Plan](/images/9.-connectvpc/9.2-plan/1-plan.png?width=90pc)
 

@@ -20,7 +20,7 @@ pre : " <b> 4.1 </b> "
 - Đọc **Diagram Steps**
 - Xem kiến trúc để hiểu nguyên lý hoạt động của Amazon S3
 
-![Learn](/images/4-staticwebhosting/4.1-learn/01-learn.png)
+![Learn](/images/4-staticwebhosting/4.1-learn/1-learn.png?width=90pc)
 
 
 2. Trong giao diện **Learn**
@@ -28,5 +28,5 @@ pre : " <b> 4.1 </b> "
 - Sau khi đọc xong các bước của **Diagram Steps**
 - Chọn **Plan** để đến **Plan**
 
-![Learn](/images/4-staticwebhosting/4.1-learn/02-learn.png)
+![Learn](/images/4-staticwebhosting/4.1-learn/2-learn.png?width=90pc)
 

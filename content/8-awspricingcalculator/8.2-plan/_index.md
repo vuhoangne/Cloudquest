@@ -18,4 +18,4 @@ To switch to **Plan**, players take the following steps after **Learn**
 - Read **DIY Goals**
 - Select **Practice** to proceed with the lab
 
-![Plan](/images/8-awspricingcalculator/8.2-plan/1-plan.png)
+![Plan](/images/8-awspricingcalculator/8.2-plan/1-plan.png?width=90pc)

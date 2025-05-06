@@ -18,20 +18,20 @@ After completing the lab, the player does **DIY**
 - Read **SOLUTION VALIDATION METHOD**
 - Select **Open AWS Console**
 
-![DIY](/images/14-scaling/14.4-diy/1-diy.png)
+![DIY](/images/14-scaling/14.4-diy/1-diy.png?width=90pc)
 
 2. In the **AWS Console** interface
 
 - Find **EC2**
 - Select **EC2**
 
-![DIY](/images/14-scaling/14.4-diy/2-diy.png)
+![DIY](/images/14-scaling/14.4-diy/2-diy.png?width=90pc)
 
 3. In the **EC2** interface
 
 - Select **Instances**
 
-![DIY](/images/14-scaling/14.4-diy/3-diy.png)
+![DIY](/images/14-scaling/14.4-diy/3-diy.png?width=90pc)
 
 4. In the **EC2** interface
 
@@ -40,40 +40,40 @@ After completing the lab, the player does **DIY**
 - Select **Image and templates**
 - Select **Create image**
 
-![DIY](/images/14-scaling/14.4-diy/4-diy.png)
+![DIY](/images/14-scaling/14.4-diy/4-diy.png?width=90pc)
 
 5. In the **Create image** interface
 
 - **Image name**, enter ```GameServer```
 - **Image description**, enter ```Regular customer game server```
 
-![DIY](/images/14-scaling/14.4-diy/5-diy.png)
+![DIY](/images/14-scaling/14.4-diy/5-diy.png?width=90pc)
 
 6. In the **EC2** interface
 
 - **Tags**, select **tag image and snapshots together**
 - Select **Create image**
 
-![DIY](/images/14-scaling/14.4-diy/6-diy.png)
+![DIY](/images/14-scaling/14.4-diy/6-diy.png?width=90pc)
 
 7. In the **EC2** interface
 
 - Select **RegularCustomerGameServer**
 
-![DIY](/images/14-scaling/14.4-diy/7-diy.png)
+![DIY](/images/14-scaling/14.4-diy/7-diy.png?width=90pc)
 
 8. In the **RegularCustomerGameServer** interface
 
 - Select **Automatic scailing**
 
-![DIY](/images/14-scaling/14.4-diy/8-diy.png)
+![DIY](/images/14-scaling/14.4-diy/8-diy.png?width=90pc)
 
 9. In the **RegularCustomerGameServer** interface
 
 - Select **SecondWaveOfRegulars**
 - Click **Actions** and select **Edit**
 
-![DIY](/images/14-scaling/14.4-diy/9-diy.png)
+![DIY](/images/14-scaling/14.4-diy/9-diy.png?width=90pc)
 
 10. In the **Edit scheduled action** interface
 
@@ -85,13 +85,13 @@ After completing the lab, the player does **DIY**
 - Select **01:00**
 - Select **Save changes**
 
-![DIY](/images/14-scaling/14.4-diy/10-diy.png)
+![DIY](/images/14-scaling/14.4-diy/10-diy.png?width=90pc)
 
 11. In the **RegularCustomerGameServer** interface
 
 - Review
 
-![DIY](/images/14-scaling/14.4-diy/11-diy.png)
+![DIY](/images/14-scaling/14.4-diy/11-diy.png?width=90pc)
 
 12. In the **DIY** interface
 
@@ -99,26 +99,26 @@ After completing the lab, the player does **DIY**
 - Scheduled-action-name : ```SecondWaveOfRegulars```
 - Select **Validate**
 
-![DIY](/images/14-scaling/14.4-diy/12-diy.png)
+![DIY](/images/14-scaling/14.4-diy/12-diy.png?width=90pc)
 
 13. In the **DIY** interface
 
 - A green message appears: **you did it!..** means completed*
 
-![DIY](/images/14-scaling/14.4-diy/13-diy.png)
+![DIY](/images/14-scaling/14.4-diy/13-diy.png?width=90pc)
 
 14. In the **city** interface
 
 - Select **Collect**
 
-![DIY](/images/14-scaling/14.4-diy/14-diy.png)
+![DIY](/images/14-scaling/14.4-diy/14-diy.png?width=90pc)
 
 15. Select **Collect**
 
-![DIY](/images/14-scaling/14.4-diy/15-diy.png)
+![DIY](/images/14-scaling/14.4-diy/15-diy.png?width=90pc)
 
 16. **CONGRATULATIONS!**
 
 - Congratulations on completing the **Auto-Healing and Scaling Applications** lab
 
-![DIY](/images/14-scaling/14.4-diy/16-diy.png)
+![DIY](/images/14-scaling/14.4-diy/16-diy.png?width=90pc)

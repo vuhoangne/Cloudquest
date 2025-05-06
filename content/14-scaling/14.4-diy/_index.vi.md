@@ -18,20 +18,20 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Đọc **SOLUTION VALIDATION METHOD**
 - Chọn **Open AWS Console**
 
-![DIY](/images/14-scaling/14.4-diy/1-diy.png)
+![DIY](/images/14-scaling/14.4-diy/1-diy.png?width=90pc)
 
 2. Trong giao diện **AWS Console**
 
 - Tìm **EC2**
 - Chọn **EC2**
 
-![DIY](/images/14-scaling/14.4-diy/2-diy.png)
+![DIY](/images/14-scaling/14.4-diy/2-diy.png?width=90pc)
 
 3. Trong giao diện **EC2**
 
 - Chọn **Instances**
 
-![DIY](/images/14-scaling/14.4-diy/3-diy.png)
+![DIY](/images/14-scaling/14.4-diy/3-diy.png?width=90pc)
 
 4. Trong giao diện **EC2**
 
@@ -41,33 +41,33 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **Create image**
 
 
-![DIY](/images/14-scaling/14.4-diy/4-diy.png)
+![DIY](/images/14-scaling/14.4-diy/4-diy.png?width=90pc)
 
 5. Trong giao diện **Create image**
 
 - **Image name**, nhập ```GameServer```
 - **Image description**, nhập ```Regular customer game server```
 
-![DIY](/images/14-scaling/14.4-diy/5-diy.png)
+![DIY](/images/14-scaling/14.4-diy/5-diy.png?width=90pc)
 
 6. Trong giao diện **EC2**
 
 - **Tags**, chọn **tag image and snapshots together**
 - Chọn **Create image**
 
-![DIY](/images/14-scaling/14.4-diy/6-diy.png)
+![DIY](/images/14-scaling/14.4-diy/6-diy.png?width=90pc)
 
 7. Trong giao diện **EC2**
 
 - Chọn **RegularCustomerGameServer**
 
-![DIY](/images/14-scaling/14.4-diy/7-diy.png)
+![DIY](/images/14-scaling/14.4-diy/7-diy.png?width=90pc)
 
 8. Trong giao diện **RegularCustomerGameServer**
 
 - Chọn **Automatic scailing**
 
-![DIY](/images/14-scaling/14.4-diy/8-diy.png)
+![DIY](/images/14-scaling/14.4-diy/8-diy.png?width=90pc)
 
 9. Trong giao diện **RegularCustomerGameServer**
 
@@ -75,7 +75,7 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Click vào **Actions** và chọn **Edit**
 
 
-![DIY](/images/14-scaling/14.4-diy/9-diy.png)
+![DIY](/images/14-scaling/14.4-diy/9-diy.png?width=90pc)
 
 10. Trong giao diện **Edit scheduled action**
 
@@ -88,13 +88,13 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **Save changes**
 
 
-![DIY](/images/14-scaling/14.4-diy/10-diy.png)
+![DIY](/images/14-scaling/14.4-diy/10-diy.png?width=90pc)
 
 11. Trong giao diện **RegularCustomerGameServer**
 
 - Review
 
-![DIY](/images/14-scaling/14.4-diy/11-diy.png)
+![DIY](/images/14-scaling/14.4-diy/11-diy.png?width=90pc)
 
 12. Trong giao diện **DIY**
 
@@ -102,27 +102,27 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Scheduled-action-name : ```SecondWaveOfRegulars```
 - Chọn **Validate**
 
-![DIY](/images/14-scaling/14.4-diy/12-diy.png)
+![DIY](/images/14-scaling/14.4-diy/12-diy.png?width=90pc)
 
 13. Trong giao diện **DIY**
 
 - Xuất hiện dòng chữ xanh lá cây : **you did it!..** là đã hoàn thành*
 
-![DIY](/images/14-scaling/14.4-diy/13-diy.png)
+![DIY](/images/14-scaling/14.4-diy/13-diy.png?width=90pc)
 
 14. Trong giao diện **thành phố**
 
 - Chọn **Collect**
 
-![DIY](/images/14-scaling/14.4-diy/14-diy.png)
+![DIY](/images/14-scaling/14.4-diy/14-diy.png?width=90pc)
 
 15. Chọn **Collect**
 
-![DIY](/images/14-scaling/14.4-diy/15-diy.png)
+![DIY](/images/14-scaling/14.4-diy/15-diy.png?width=90pc)
 
 16. **CONGRATULATIONS!**
 
 - Chúc mừng người chơi đã hoàn thành bài lab **Auto-Healing and Scaling Applications**
 
-![DIY](/images/14-scaling/14.4-diy/16-diy.png)
+![DIY](/images/14-scaling/14.4-diy/16-diy.png?width=90pc)
 

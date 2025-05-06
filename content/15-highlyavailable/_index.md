@@ -16,22 +16,22 @@ Lab number 12 of **AWS Cloud Quest: Cloud Practitioner** is **Implementing Highl
 - Select **ASSIGNTMENTS**
 - Select **ROUTE AND GO**
 
-![Highly Available](/images/15-highlyavailable/1-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/1-highlyavailable.png?width=90pc)
 
 2. In the **Highly Available Web Applications** interface
 
 - View **Rewards**
 - Click **NEXT**
 
-![Highly Available](/images/15-highlyavailable/2-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/2-highlyavailable.png?width=90pc)
 
 3. In the **Highly Available Web Applications** interface
 
 - Read **Solution Annotations**
 - Click **ACCEPT**
 
-![Highly Available](/images/15-highlyavailable/3-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/3-highlyavailable.png?width=90pc)
 
 4. Click **START** to go to the **SOLUTION CENTER**
 
-![Highly Available](/images/15-highlyavailable/4-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/4-highlyavailable.png?width=90pc)

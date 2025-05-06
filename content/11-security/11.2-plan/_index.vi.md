@@ -18,4 +18,4 @@ pre : " <b> 11.2 </b> "
 - Đọc **DIY Goals**
 - Chọn **Practice**
 
-![Plan](/images/11-security/11.2-plan/1-plan.png)
+![Plan](/images/11-security/11.2-plan/1-plan.png?width=90pc)

@@ -14,7 +14,7 @@ pre : " <b> 6.2 </b> "
 
 1. Chọn **Plan** để vào giao diện **Plan**
 
-![Plan](/images/6-ec2connect/6.2-plan/1-plan.png)
+![Plan](/images/6-ec2connect/6.2-plan/1-plan.png?width=90pc)
 
 2. Trong giao diện **Plan**
 
@@ -22,5 +22,5 @@ pre : " <b> 6.2 </b> "
 - Đọc **DIY Goals**
 - Chuẩn bị cho bước **Practice**
 
-![Plan](/images/6-ec2connect/6.2-plan/2-plan.png)
+![Plan](/images/6-ec2connect/6.2-plan/2-plan.png?width=90pc)
 

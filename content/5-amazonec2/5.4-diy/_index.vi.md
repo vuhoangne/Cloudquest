@@ -14,7 +14,7 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 
 1. Chọn **DIY** để thực hiện 
 
-![DIY](/images/5-amazonec2/5.4-diy/1-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/1-diy.png?width=90pc)
 
 2. Trong giao diện **DIY**
 
@@ -22,7 +22,7 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Đọc **SOLUTION VALIDATION METHOD**
 - Chọn **Open AWS Console**
 
-![DIY](/images/5-amazonec2/5.4-diy/2-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/2-diy.png?width=90pc)
 
 3. Trong **EC2** , chọn **launch instance**
 
@@ -32,37 +32,37 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Gõ ```LabHN```
 - Gõ ```HTTP Security```
 - Type : HTTP , Source type : Anywhere
-![DIY](/images/5-amazonec2/5.4-diy/3-diy.png)
+
+![DIY](/images/5-amazonec2/5.4-diy/3-diy.png?width=90pc)
 
 4. Trong giao diện **Launch an instance**
 
 - Chọn vpc (cloud-first-steps/LabVpc)
 - Chọn subnet có AZ : us-east-1b
 
-![DIY](/images/5-amazonec2/5.4-diy/4-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/4-diy.png?width=90pc)
 
 5. Trong giao diện **Launch an instance**
 
--  Review user-data.txt 
--  Chọn **Launch instance**
+- Review user-data.txt 
+- Chọn **Launch instance**
 
-![DIY](/images/5-amazonec2/5.4-diy/5-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/5-diy.png?width=90pc)
 
 6. Review
 
-![DIY](/images/5-amazonec2/5.4-diy/6-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/6-diy.png?width=90pc)
 
 7. Chọn **View all instances**
 
-![DIY](/images/5-amazonec2/5.4-diy/7-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/7-diy.png?width=90pc)
 
 8. Trong **Advanced Details**
 
 - Chọn **Webserver02**
 - Copy Instance ID 
 
-![DIY](/images/5-amazonec2/5.4-diy/8-diy.png)
-
+![DIY](/images/5-amazonec2/5.4-diy/8-diy.png?width=90pc)
 
 9. Trong giao diện **DIY**
 
@@ -70,18 +70,17 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Gõ instance ID 2
 - Chọn **Validate**
 
-![DIY](/images/5-amazonec2/5.4-diy/9-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/9-diy.png?width=90pc)
 
 10. Trong giao diện **DIY**
 
 - Xuất hiện dòng chữ màu xanh lá:"you did it..." là đã hoàn thành
 
+![DIY](/images/5-amazonec2/5.4-diy/10-diy.png?width=90pc)
 
-![DIY](/images/5-amazonec2/5.4-diy/10-diy.png)
-
-11.  Trong giao diện thành phố 
+11. Trong giao diện thành phố 
 
 - Chúc mừng bạn đã hoàn thành **Cloud First Steps**
 
-![DIY](/images/5-amazonec2/5.4-diy/12-diy.png)
+![DIY](/images/5-amazonec2/5.4-diy/12-diy.png?width=90pc)
 

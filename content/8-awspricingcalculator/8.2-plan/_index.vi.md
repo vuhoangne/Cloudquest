@@ -17,4 +17,4 @@ pre : " <b> 8.2 </b> "
 - Đoc **Practice Lab Goals**
 - Đọc **DIY Goals**
 - Chọn **Practice** để tiến hành thực hiện bài lab
-![Plan](/images/8-awspricingcalculator/8.2-plan/1-plan.png)
+![Plan](/images/8-awspricingcalculator/8.2-plan/1-plan.png?width=90pc)

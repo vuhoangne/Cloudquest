@@ -24,21 +24,21 @@ Sau khi nhận thưởng Assignment 1 tiếp tục thực hiện các bước sa
 
 1. Vào **ASSIGNMENTS**, trong phần **Cloud First Steps**, chọn **ROUTE AND GO**
    
-![Amazon EC2](/images/5-amazonec2/1-amazonec2.png)
+![Amazon EC2](/images/5-amazonec2/1-amazonec2.png?width=90pc)
 
 2. Chọn vào biểu tượng như hình 
 
-![Amazon EC2](/images/5-amazonec2/2-amazonec2.png)
+![Amazon EC2](/images/5-amazonec2/2-amazonec2.png?width=90pc)
 
 3. Sau khi vào giao diện **Cloud First Steps**, chọn **NEXT** để xem thêm về **Amazon EC2**, **Availability Zone**, **AWS Region**
 
-![Amazon EC2](/images/5-amazonec2/3-amazonec2.png)
+![Amazon EC2](/images/5-amazonec2/3-amazonec2.png?width=90pc)
 
 4. Chọn **ACCEPT**
 
-![Amazon EC2](/images/5-amazonec2/4-amazonec2.png)
+![Amazon EC2](/images/5-amazonec2/4-amazonec2.png?width=90pc)
 
 5. Chọn **START** để chuyển sang các bước tiếp theo của Assignment
 
-![Amazon EC2](/images/5-amazonec2/5-amazonec2.png)
+![Amazon EC2](/images/5-amazonec2/5-amazonec2.png?width=90pc)
 

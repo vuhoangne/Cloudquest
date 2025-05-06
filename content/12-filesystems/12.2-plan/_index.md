@@ -18,4 +18,4 @@ To switch to **Plan**, players take the following steps after **Learn**
 - Read the **DIY Goals**
 - Select **Practice** to begin the lab
 
-![Plan](/images/12-filesystems/12.2-plan/1-plan.png)
+![Plan](/images/12-filesystems/12.2-plan/1-plan.png?width=90pc)

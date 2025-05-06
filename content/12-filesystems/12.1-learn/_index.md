@@ -16,7 +16,7 @@ pre : " <b> 12.1 </b> "
 
 - View step 1 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/1-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/1-learn.png?width=90pc)
 
 ---
 
@@ -24,7 +24,7 @@ pre : " <b> 12.1 </b> "
 
 - View step 2 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/2-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/2-learn.png?width=90pc)
 
 ---
 
@@ -32,7 +32,7 @@ pre : " <b> 12.1 </b> "
 
 - View step 3 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/3-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/3-learn.png?width=90pc)
 
 ---
 
@@ -40,7 +40,7 @@ pre : " <b> 12.1 </b> "
 
 - View step 4 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/4-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/4-learn.png?width=90pc)
 
 ---
 
@@ -48,7 +48,7 @@ pre : " <b> 12.1 </b> "
 
 - View step 5 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/5-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/5-learn.png?width=90pc)
 
 ---
 
@@ -56,6 +56,6 @@ pre : " <b> 12.1 </b> "
 
 - View step 6 of the **Diagram Steps**
 
-![Learn](/images/12-filesystems/12.1-learn/6-learn.png)
+![Learn](/images/12-filesystems/12.1-learn/6-learn.png?width=90pc)
 
 - Additionally, you can watch the **VIDEO CONCEPTS** to better understand the services.

@@ -14,17 +14,17 @@ Bài lab số 8 của **AWS Cloud Quest: Cloud Practitioner** là **Defining Usr
 - Chọn **ASSIGNMENTS**
 - Chọn **ROUTE AND GO**
 
-![Security](/images/11-security/1-security.png)
+![Security](/images/11-security/1-security.png?width=90pc)
 
 2. Trong giao diện thành phố
 
 - Chọn biểu tưởng **!**
 
-![Security](/images/11-security/2-security.png)
+![Security](/images/11-security/2-security.png?width=90pc)
 
 3. Trong giao diện thành phố
 
-- Xem **REWARDSREWARDS**
+- Xem **REWARDS**
 - Chọn **START** để đi tới **SOLUTION CENTER**
 
-![Security](/images/11-security/3-security.png)
+![Security](/images/11-security/3-security.png?width=90pc)

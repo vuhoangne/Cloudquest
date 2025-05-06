@@ -13,36 +13,36 @@ Steps to create an AWS Skill Builder
 
 1. Open the app or visit the official [AWS Skill Builder](https://explore.skillbuilder.aws/learn) website
 
-![Create AWS Skill Builder account](/images/2.prerequisite/2.1-CreateanaccountonAmazon/01-createAWSskillbuilder.png)
+![Create AWS Skill Builder account](/images/2.prerequisite/2.1-Createanaccountonawsskillbuilder/01-createAWSskillbuilder.png?width=90pc)
 
 2. Select **Create a new AWS Skill Builder account**
 
-![Create AWS Skill Builder account](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/02-createAWSskillbuilder.png)
+![Create AWS Skill Builder account](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/02-createAWSskillbuilder.png?width=90pc)
 
 3. Enter your **Email address** to connect
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/03-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/03-createAWSskillbuilder.png?width=90pc)
 
 4. Enter your **User name**
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/04-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/04-createAWSskillbuilder.png?width=90pc)
 
 5. Next, select **Verify**
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/05-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/05-createAWSskillbuilder.png?width=90pc)
 
 6. Enter your **Password**  
 7. Re-enter your **Password**  
 8. A new page will appear, enter the **six-digit OTP** in the provided field  
 9. Select **Create your Amazon account**
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/06-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/06.1-createAWSskillbuilder.png?width=90pc)
 
 10. Select **Accept terms**
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/07-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/07-createAWSskillbuilder.png?width=90pc)
 
 11. Change your **region**, then select **continue**.
 
-![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/08-createAWSskillbuilder.png)
+![Create Account AWS Skill Builder](/images/2.prerequisite/2.1-createanaccountonawsskillbuilder/08-createAWSskillbuilder.png?width=90pc)
 

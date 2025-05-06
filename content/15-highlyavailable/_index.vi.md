@@ -14,23 +14,23 @@ Bài lab số 12 của **AWS Cloud Quest: Cloud Practitioner** là **Implementin
 - Chọn **ASSIGNTMENTS**
 - Chọn **ROUTE AND GO**
 
-![Highly Available](/images/15-highlyavailable/1-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/1-highlyavailable.png?width=90pc)
 
 2. Trong giao diện **Highly Available Web Applications**
 
 - Xem **Rewards**
 - Chọn **NEXT**
 
-![Highly Available](/images/15-highlyavailable/2-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/2-highlyavailable.png?width=90pc)
 
 3. Trong giao diện **Highly Available Web Applications**
 
 - Đọc **Solution Annotations**
 - Chọn **ACCEPT**
 
-![Highly Available](/images/15-highlyavailable/3-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/3-highlyavailable.png?width=90pc)
 
 4. Chọn **START** để đi đến **SOLUTION CENTER**
 
-![Highly Available](/images/15-highlyavailable/4-highlyavailable.png)
+![Highly Available](/images/15-highlyavailable/4-highlyavailable.png?width=90pc)
 

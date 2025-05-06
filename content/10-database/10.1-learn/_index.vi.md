@@ -17,35 +17,34 @@ pre : " <b> 10.1 </b> "
 
 - Đọc bước 1 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/1-learn.png)
+![Learn](/images/10-database/10.1-learn/1-learn.png?width=90pc)
 
 2. Trong giao diện **Learn**
 
 - Đọc bước 2 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/2-learn.png)
+![Learn](/images/10-database/10.1-learn/2-learn.png?width=90pc)
 
 3. Trong giao diện **Learn**
 
 - Đọc bước 3 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/3-learn.png)
-
+![Learn](/images/10-database/10.1-learn/3-learn.png?width=90pc)
 
 4. Trong giao diện **Learn**
 
 - Đọc bước 4 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/4-learn.png)
+![Learn](/images/10-database/10.1-learn/4-learn.png?width=90pc)
 
 5. Trong giao diện **Learn**
 
 - Đọc bước 5 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/5-learn.png)
+![Learn](/images/10-database/10.1-learn/5-learn.png?width=90pc)
 
 6. Trong giao diện **Learn**
 
 - Đọc bước 6 của **Diagram Steps**
 
-![Learn](/images/10-database/10.1-learn/6-learn.png)
+![Learn](/images/10-database/10.1-learn/6-learn.png?width=90pc)

@@ -14,17 +14,17 @@ pre : " <b> 11. </b> "
 - Select **ASSIGNMENTS**
 - Click **ROUTE AND GO**
 
-![Security](/images/11-security/1-security.png)
+![Security](/images/11-security/1-security.png?width=90pc)
 
 2. In the city interface
 
 - Click the **!** icon
 
-![Security](/images/11-security/2-security.png)
+![Security](/images/11-security/2-security.png?width=90pc)
 
 3. In the city interface
 
 - View **REWARDS**
 - Click **START** to go to the **SOLUTION CENTER**
 
-![Security](/images/11-security/3-security.png)
+![Security](/images/11-security/3-security.png?width=90pc)

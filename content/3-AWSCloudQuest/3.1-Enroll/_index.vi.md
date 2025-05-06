@@ -11,12 +11,12 @@ Sau khi đăng nhập giao diện **AWS Training and Certification** xuất hi�
 1. Tìm và chọn **AWS Cloud Quest: Cloud Practitioner**
 2. Tiếp tục, chọn **ENROLL**
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/01-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/01-Enrolll.png?width=90pc)
 
 
 3. Sau khi chọn **ENROLL**, chọn  **START LEARNING NOW**
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/02-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/02-Enrolll.png?width=90pc)
 
 
 4. Sau khi xem video xong, chọn **System Requirements** để kiểm tra yêu cầu hệ thống
@@ -35,7 +35,7 @@ Sau khi đăng nhập giao diện **AWS Training and Certification** xuất hi�
 Please visit our [FAQ page](https://example.com) for more questions about Cloud Quest. Thanks for playing!
 
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/03-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/03-Enrolll.png?width=90pc)
 
 1. Sau khi kiểm tra hệ thống, chọn **Play AWS Cloud Quest: Cloud Practitioner**
 2. Giao diện xuất hiện gồm 12 bài lab ̣(Cloud Practitioner Assignments)
@@ -53,13 +53,13 @@ Please visit our [FAQ page](https://example.com) for more questions about Cloud 
 - Highly Available Web Applications
 1. Chọn **PLAY NOW!** (đợi vài phút tải giao diện)
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/04-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/04-Enrolll.png?width=90pc)
 
 9.  Giao diện **AWS Cloud Quest: Cloud Practitioner** xuất hiện, chọn **START GAME**(mất khoảng thời gian tải game)
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/05-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/05-Enrolll.png?width=90pc)
 
 10. Hoàn tất, giao diện thành phố đã xuất hiện.
 
 
-![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/06-Enrolll.png)
+![Ghi danh](/images/3-AWSCloudQuest/3.1-Enroll/06-Enrolll.png?width=90pc)

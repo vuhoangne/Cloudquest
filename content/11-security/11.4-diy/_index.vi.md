@@ -17,7 +17,7 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Tìm **IAM**
 - Chọn **IAM**
 
-![DIY](/images/11-security/11.4-diy/1-diy.png)
+![DIY](/images/11-security/11.4-diy/1-diy.png?width=90pc)
 
 2. Trong giao diện **IAM**
 
@@ -27,13 +27,13 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **AmazonEC2ReadOnlyAccess**
 - Chọn **Add permissions**
 
-![DIY](/images/11-security/11.4-diy/2-diy.png)
+![DIY](/images/11-security/11.4-diy/2-diy.png?width=90pc)
 
 3. Trong giao diện **IAM**
 
 - trong **Add permissions**, chọn **Attach policies**
 
-![DIY](/images/11-security/11.4-diy/3-diy.png)
+![DIY](/images/11-security/11.4-diy/3-diy.png?width=90pc)
 
 4. Trong giao diện **IAM**
 
@@ -41,7 +41,7 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **AmazonRDSReadOnlyAccess**
 - Chọn **Attach policies**
 
-![DIY](/images/11-security/11.4-diy/4-diy.png)
+![DIY](/images/11-security/11.4-diy/4-diy.png?width=90pc)
 
 5. Trong giao diện **IAM**
 
@@ -49,37 +49,37 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **Permissions**
 - Xem các **Policy name**
 
-![DIY](/images/11-security/11.4-diy/5-diy.png)
+![DIY](/images/11-security/11.4-diy/5-diy.png?width=90pc)
 
 6. Trong giao diện **DIY**
 
 - Nhập ```SupportEngineers```
 - Chọn **VALIDATE**
 
-![DIY](/images/11-security/11.4-diy/6-diy.png)
+![DIY](/images/11-security/11.4-diy/6-diy.png?width=90pc)
 
 7. Trong giao diện **DIY**
 
 - Sau khi chọn **VALIDATE**, **VALIDATION MESSAGE** xuất hiện **You did it!...** là đã hoàn thành **DIY**
 - Chọn **EXIT** để thoát 
 
-![DIY](/images/11-security/11.4-diy/7-diy.png)
+![DIY](/images/11-security/11.4-diy/7-diy.png?width=90pc)
 
 8. Trong giao diện thành phố
 
 - Chọn **ASSIGNMENT**
 - Chọn **COLLECT**
 
-![DIY](/images/11-security/11.4-diy/8-diy.png)
+![DIY](/images/11-security/11.4-diy/8-diy.png?width=90pc)
 
 9. Chọn **NEXT**
 
-![DIY](/images/11-security/11.4-diy/9-diy.png)
+![DIY](/images/11-security/11.4-diy/9-diy.png?width=90pc)
 
 10. Chọn **COLLECT**
 
-![DIY](/images/11-security/11.4-diy/10-diy.png)
+![DIY](/images/11-security/11.4-diy/10-diy.png?width=90pc)
 
 11. Chúc mừng người chơi nhận thưởng
 
-![DIY](/images/11-security/11.4-diy/11-diy.png)
+![DIY](/images/11-security/11.4-diy/11-diy.png?width=90pc)

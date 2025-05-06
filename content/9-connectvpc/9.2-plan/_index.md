@@ -20,4 +20,4 @@ To switch to **Plan**, players take the following steps after **Learn**
 - Read **DIY Goals**
 - Select **Practice** to go to the **Practice** interface
 
-![Plan](/images/9.-connectvpc/9.2-plan/1-plan.png)
+![Plan](/images/9.-connectvpc/9.2-plan/1-plan.png?width=90pc)

@@ -14,21 +14,21 @@ pre : " <b> 13. </b> "
 - Select **ASSIGNMENTS**
 - Choose **ROUTE AND GO**
 
-![NoSQL database](/images/13-nosqldatabase/1-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/1-nosqldatabase.png?width=90pc)
 
 2. In the **City** interface:
 
 - Select **!**
 
-![NoSQL database](/images/13-nosqldatabase/2-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/2-nosqldatabase.png?width=90pc)
 
 3. In the **First NoSQL Database** interface:
 
 - View **Rewards and learning objectives**
 - Select **ACCEPT**
 
-![NoSQL database](/images/13-nosqldatabase/3-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/3-nosqldatabase.png?width=90pc)
 
 4. Select **START** to go to **SOLUTION CENTER**
 
-![NoSQL database](/images/13-nosqldatabase/4-nosqldatabase.png)
+![NoSQL database](/images/13-nosqldatabase/4-nosqldatabase.png?width=90pc)
