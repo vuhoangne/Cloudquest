@@ -161,13 +161,11 @@ Bạn có thể đóng góp bằng cách:
 2. Tạo branch mới:  
    ```bash
    git checkout -b feature/your-feature
-   
    Commit thay đổi:
-   bash
+   ```bash
    git commit -m 'Add your feature'
-
    Push branch:
-   bash
+   ```bash
    git push origin feature/your-feature
 
 
