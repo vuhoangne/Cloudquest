@@ -153,23 +153,8 @@ Workshop này được xây dựng bởi **Hayden - Lê Nguyễn Vũ Hoàng** nh
 
 ---
 
-## 🤝 Đóng góp & Liên hệ
+## 🤝  Liên hệ
 
-Bạn có thể đóng góp bằng cách:
-
-1. Fork repository tại `vuhoangne/Cloudquest`.
-2. Tạo branch mới:  
-   ```bash
-   git checkout -b feature/your-feature
-   Commit thay đổi:
-   ```bash
-   git commit -m 'Add your feature'
-   Push branch:
-   ```bash
-   git push origin feature/your-feature
-
-
-Liên hệ
 Tác giả: Hayden - Lê Nguyễn Vũ Hoàng
 
 Email: [vuhoangdz2003@gmail.com]
