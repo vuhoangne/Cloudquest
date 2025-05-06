@@ -16,20 +16,20 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 
 - Chọn **DIY**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/1-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/01-diy.png?width=90pc)
 
 2. Trong giao diện **DIY**
 
 - Đọc **DIY ACTIVITIES**
 - Đọc **SOLUTION VALIDATION METHOD**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/2-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/02-diy.png?width=90pc)
 
 3. Trong giao diện **Amazon S3**
 
 - Chọn **Website-bucket-xxxxxx**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/3-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/03-diy.png?width=90pc)
 
 4. Trong giao diện **Website-bucket-xxxxxx**
 
@@ -37,24 +37,24 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **Actions**
 - Chọn **Rename object**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/5-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/05-diy.png?width=90pc)
 
 5. Trong giao diện **Website-bucket-xxxxxx**
 
 - Thay **index.html** thành ```waves.html```
 - Chọn **Save changes**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/6-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/06-diy.png?width=90pc)
 
 6. Trong giao diện **Website-bucket-xxxxxx**
 
 - Xem kết quả đổi tên object
 
-![DIY](/images/4-staticwebhosting/4.4-diy/7-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/07-diy.png?width=90pc)
 
 - Copy tên **Website-bucket-xxxxxx**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/8-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/08-diy.png?width=90pc)
 
 7. Trong giao diện **DIY**
 
@@ -63,24 +63,24 @@ Sau khi hoàn thành bài lab, người chơi thực hiện **DIY**
 - Chọn **EXIT** để thoát
 
 
-![DIY](/images/4-staticwebhosting/4.4-diy/9-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/09-diy.png?width=90pc)
 
 8. Trong giao diện thành phố
 
 - Chọn **ASSIGNMENTS**
 - Chọn **COLLECT**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/10-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/010-diy.png?width=90pc)
 
 9. Chọn **NEXT**
 
 
-![DIY](/images/4-staticwebhosting/4.4-diy/11-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/011-diy.png?width=90pc)
 
 10. Chọn **COLLECT**
 
-![DIY](/images/4-staticwebhosting/4.4-diy/12-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/012-diy.png?width=90pc)
 
 11. Chúc mừng người chơi nhận thưởng
 
-![DIY](/images/4-staticwebhosting/4.4-diy/13-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/013-diy.png?width=90pc)

@@ -20,11 +20,11 @@ pre : " <b> 4.1 </b> "
 - Read the **Diagram Steps**
 - View the architecture to understand how Amazon S3 works
 
-![Learn](/images/4-staticwebhosting/4.1-learn/1-learn.png?width=90pc)
+![Learn](/images/4-staticwebhosting/4.1-learn/01-learn.png?width=90pc)
 
 2. In the **Learn** interface
 
 - After reading all the steps in **Diagram Steps**
 - Select **Plan** to proceed to the **Plan** section
 
-![Learn](/images/4-staticwebhosting/4.1-learn/2-learn.png?width=90pc)
+![Learn](/images/4-staticwebhosting/4.1-learn/02-learn.png?width=90pc)

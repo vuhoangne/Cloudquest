@@ -19,14 +19,14 @@ After watching **Plan**, the player prepares for **Practice**
 - Select **START LAB**
 - Click the right arrow to see the next step
 
-![Practice](/images/4-staticwebhosting/4.3-practice/1-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/01-practice.png?width=90pc)
 
 2. In the **Practice** interface
 
 - Read Step 2 of **Cloud Computing Essentials**
 - Select **Open AWS Console**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/2-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/02-practice.png?width=90pc)
 
 3. In the **Practice** interface
 
@@ -34,21 +34,21 @@ After watching **Plan**, the player prepares for **Practice**
 - Download **labcode.zip** to your computer
 - After downloading, extract the files as shown in the image
 
-![Practice](/images/4-staticwebhosting/4.3-practice/3-ractice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/03-ractice.png?width=90pc)
 
 4. In the **Practice** interface
 
 - Read Step 3 of **Cloud Computing Essentials**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/4-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/04-practice.png?width=90pc)
 
 5. In the **personal** interface
 
 - Search for **S3**
 - Select **S3**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/5-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/05-practice.png?width=90pc)
 
 6. In the **Practice** interface
 
@@ -56,7 +56,7 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/6-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/06-practice.png?width=90pc)
 
 7. In the **personal** interface
 
@@ -64,7 +64,7 @@ After watching **Plan**, the player prepares for **Practice**
 - Select **Buckets**
 - Select website-bucket-contains code
 
-![Practice](/images/4-staticwebhosting/4.3-practice/7-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/07-practice.png?width=90pc)
 
 8. In the **Practice** interface
 
@@ -72,21 +72,21 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/8-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/08-practice.png?width=90pc)
 
 9. In the **personal** interface 
 
 - Select **text.html** 
 - Select **Actions**, click **Rename object**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/9-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/09-practice.png?width=90pc)
 
 10. In the **Practice** interface
 
 - Read Step 6 of **Cloud Computing Essentials**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/10-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/010-practice.png?width=90pc)
 
 11. In **Rename object**
 

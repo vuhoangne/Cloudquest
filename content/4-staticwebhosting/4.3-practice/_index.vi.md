@@ -19,7 +19,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn **START LAB**
 - Chọn mũi tên sang phải để xem bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/1-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/01-practice.png?width=90pc)
 
 
 2. Trong giao diện **Practice**
@@ -27,7 +27,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc bước 2 của **Cloud Coputing Essentials**
 - Chọn **Open AWS Console**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/2-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/02-practice.png?width=90pc)
 
 
 3. Trong giao diện **Practice**
@@ -36,21 +36,21 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Tải **labcode.zip** về máy
 - Sau khi tải về máy, giải nén sẽ được các file như hình
 
-![Practice](/images/4-staticwebhosting/4.3-practice/3-ractice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/03-ractice.png?width=90pc)
 
 4. Trong giao diện **Practice**
 
 - Đọc bước 3 của **Cloud Copunting Essentials**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/4-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/04-practice.png?width=90pc)
 
 5. Trong giao diện **cá nhân**
 
 - Tìm **S3**
 - Chọn **S3**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/5-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/05-practice.png?width=90pc)
 
 
 6. Trong giao diện **Practice**
@@ -59,7 +59,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/6-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/06-practice.png?width=90pc)
 
 
 7. Trong giao diện **cá nhân**
@@ -69,7 +69,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn website-bucket-contains code
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/7-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/07-practice.png?width=90pc)
 
 8. Trong giao diện **Practice**
 
@@ -78,7 +78,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/8-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/08-practice.png?width=90pc)
 
 9. Trong giao diện **cá nhân** 
 
@@ -86,7 +86,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn **Actions** , click **Rename object**
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/9-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/09-practice.png?width=90pc)
 
 10.  Trong giao diện **Practice**
 

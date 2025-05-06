@@ -18,4 +18,4 @@ To switch to **Plan**, players take the following steps after **Learn**
 - Read **DIY Goals**
 - Select **Practice** to conduct the lab
 
-![Plan](/images/4-staticwebhosting/4.2-plan/1-plan.png?width=90pc)
+![Plan](/images/4-staticwebhosting/4.2-plan/01-plan.png?width=90pc)
