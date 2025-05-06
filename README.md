@@ -163,12 +163,10 @@ Bạn có thể đóng góp bằng cách:
    git checkout -b feature/your-feature
    
    Commit thay đổi:
-
    ```bash
    git commit -m 'Add your feature'
 
    Push branch:
-
    ```bash
    git push origin feature/your-feature
 
