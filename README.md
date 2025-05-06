@@ -160,15 +160,15 @@ Bạn có thể đóng góp bằng cách:
 1. Fork repository tại `vuhoangne/Cloudquest`.
 2. Tạo branch mới:  
    ```bash
-   git checkout -b feature/your-feature```
+   git checkout -b feature/your-feature
    
    Commit thay đổi:
-   ```bash
-   git commit -m 'Add your feature'```
+   bash
+   git commit -m 'Add your feature'
 
    Push branch:
-   ```bash
-   git push origin feature/your-feature```
+   bash
+   git push origin feature/your-feature
 
 
 Liên hệ
