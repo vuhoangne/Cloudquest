@@ -81,4 +81,4 @@ After completing the lab, the player does **DIY**
 
 11. Congratulations to the player for receiving the reward
 
-![DIY](/images/4-staticwebhosting/4.4-diy/0013-diy.png?width=90pc)
+![DIY](/images/4-staticwebhosting/4.4-diy/013-diy.png?width=90pc)
