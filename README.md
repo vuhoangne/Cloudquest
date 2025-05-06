@@ -8,7 +8,7 @@ Chào mừng bạn đến với **CloudQuest Workshop**! Đây là một hướn
 
 **AWS Cloud Quest** là một trò chơi nhập vai (RPG) được thiết kế để giúp bạn học và thực hành các kỹ năng AWS thông qua các nhiệm vụ thực tế, từ cơ bản đến nâng cao.
 
-Workshop này được xây dựng bởi **vuhoangne** nhằm cung cấp một tài liệu tham khảo toàn diện, dễ hiểu, đặc biệt dành cho người mới bắt đầu hoặc những người muốn nâng cao kiến thức về AWS.
+Workshop này được xây dựng bởi **Hayden - Lê Nguyễn Vũ Hoàng** nhằm cung cấp một tài liệu tham khảo toàn diện, dễ hiểu, đặc biệt dành cho người mới bắt đầu hoặc những người muốn nâng cao kiến thức về AWS.
 
 ---
 
@@ -161,24 +161,23 @@ Bạn có thể đóng góp bằng cách:
 2. Tạo branch mới:  
    ```bash
    git checkout -b feature/your-feature
+   
 Commit thay đổi:
 
-bash
-Sao chép
-Chỉnh sửa
+```bash
 git commit -m 'Add your feature'
+
+
 Push branch:
 
-bash
-Sao chép
-Chỉnh sửa
+```bash
 git push origin feature/your-feature
-Tạo Pull Request.
+
 
 Liên hệ
-Tác giả: vuhoangne
+Tác giả: Hayden - Lê Nguyễn Vũ Hoàng
 
-Email: [Liên hệ qua GitHub hoặc email cá nhân]
+Email: [vuhoangdz2003@gmail.com]
 
 Issues: Nếu có câu hỏi, vui lòng mở một issue trên repository.
 
