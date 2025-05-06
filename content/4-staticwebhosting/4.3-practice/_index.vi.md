@@ -93,7 +93,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc bước 6 của **Cloud Computing Essentials**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/010-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0010-practice.png?width=90pc)
 
 11. Trong **Rename object**
 
@@ -101,7 +101,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn **Save changes**
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/011-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0011-practice.png?width=90pc)
 
 12. Trong giao diện **Practice**
 
@@ -109,13 +109,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/012-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0012-practice.png?width=90pc)
 
 13 Trong giao diện **cá nhân** 
 - Chọn **Permissions**
 - Review
 
-![Practice](/images/4-staticwebhosting/4.3-practice/013-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0013-practice.png?width=90pc)
 
 14. Trong giao diện **Practice**
 
@@ -123,13 +123,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
   
-![Practice](/images/4-staticwebhosting/4.3-practice/014-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0014-practice.png?width=90pc)
 
 15 Trong giao diện **cá nhân**
 
 - Kéo xuống và review 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/015-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0015-practice.png?width=90pc)
 
 16.  Trong giao diện **Practice**
 
@@ -138,13 +138,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/016-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0016-practice.png?width=90pc)
 
 17 Trong giao diện **cá nhân**
 
 - Kéo xuống và review **Buckets policy** 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/017-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0017-practice.png?width=90pc)
 
 
 18. Trong giao diện **Practice**
@@ -153,13 +153,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
   
-![Practice](/images/4-staticwebhosting/4.3-practice/018-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0018-practice.png?width=90pc)
 
 19 Trong giao diện **cá nhân**
 
 - Click vào **Properties**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/019-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0019-practice.png?width=90pc)
 
 20. Trong giao diện **Practice**
 
@@ -167,13 +167,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/020-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0020-practice.png?width=90pc)
 
 21. Trong giao diện **cá nhân**
 
 - Kéo xuống và review
 
-![Practice](/images/4-staticwebhosting/4.3-practice/021-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0021-practice.png?width=90pc)
 
 22.  Trong giao diện **Practice**
 
@@ -181,13 +181,13 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/022-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0022-practice.png?width=90pc)
 
 23. Trong giao diện **cá nhân**
 
 - Kéo xuống **static web hosting** và click **Edit**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/023-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0023-practice.png?width=90pc)
 
 24. Trong giao diện **Practice**
 
@@ -195,7 +195,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/024-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0024-practice.png?width=90pc)
 
 25. Trong giao diện **cá nhân**
 - Trong **Edit Static website hosting**
@@ -204,7 +204,7 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Gõ ```index.html``` 
 - Gõ ```error.html```
 
-![Practice](/images/4-staticwebhosting/4.3-practice/025-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0025-practice.png?width=90pc)
 
 26. Trong giao diện **Practice**
 
@@ -212,26 +212,26 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/026-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0026-practice.png?width=90pc)
 
 27. Trong giao diện **cá nhân**
 
 - Kéo xuống và chọn **Save Changes**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/027-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0027-practice.png?width=90pc)
 
 28. Trong giao diện **Practice**
 
 - Đọc bước 15 của **Cloud Computing Essentials**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/028-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0028-practice.png?width=90pc)
 
 29. Trong giao diện **cá nhân**
 
 - Click vào đường link **Bucket website endpoint**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/029-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0029-practice.png?width=90pc)
 
 30. Trong giao diện **Practice**
 
@@ -239,17 +239,17 @@ Sau khi xem **Plan**, người chơi chuẩn bị cho **Practice**
 - Đọc **CONCEPT**
 - Chọn mũi tên sang phải để xem các bước tiếp theo
 
-![Practice](/images/4-staticwebhosting/4.3-practice/030-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0030-practice.png?width=90pc)
 
 31. Trong giao diện **cá nhân**
 
 - Dán đường link lên thanh tìm kiếm của trình duyệt và nhấn **Enter** 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/031-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0031-practice.png?width=90pc)
 
 32. Trong giao diện **Practice**
 
 - Chúc mừng người chơi đã hoàn thành bài lab
 
-![Practice](/images/4-staticwebhosting/4.3-practice/032-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0032-practice.png?width=90pc)
 

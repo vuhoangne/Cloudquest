@@ -2,844 +2,844 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:59328/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="//localhost:59328/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="//localhost:59328/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-prerequiste/2.1-createanaccountonawsskillbuilder/</loc>
+    <loc>//localhost:59328/2-prerequiste/2.1-createanaccountonawsskillbuilder/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/2.1-createanaccountonawsskillbuilder/"
+                href="//localhost:59328/vi/2-prerequiste/2.1-createanaccountonawsskillbuilder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/2.1-createanaccountonawsskillbuilder/"
+                href="//localhost:59328/2-prerequiste/2.1-createanaccountonawsskillbuilder/"
                 />
   </url><url>
-    <loc>//localhost:1313/1-introduce/</loc>
+    <loc>//localhost:59328/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-introduce/"
+                href="//localhost:59328/vi/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-introduce/"
+                href="//localhost:59328/1-introduce/"
                 />
   </url><url>
-    <loc>//localhost:1313/10-database/10.1-learn/</loc>
+    <loc>//localhost:59328/10-database/10.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-database/10.1-learn/"
+                href="//localhost:59328/vi/10-database/10.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-database/10.1-learn/"
+                href="//localhost:59328/10-database/10.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/11-security/11.1-learn/</loc>
+    <loc>//localhost:59328/11-security/11.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/11-security/11.1-learn/"
+                href="//localhost:59328/vi/11-security/11.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/11-security/11.1-learn/"
+                href="//localhost:59328/11-security/11.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/12-filesystems/12.1-learn/</loc>
+    <loc>//localhost:59328/12-filesystems/12.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/12-filesystems/12.1-learn/"
+                href="//localhost:59328/vi/12-filesystems/12.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/12-filesystems/12.1-learn/"
+                href="//localhost:59328/12-filesystems/12.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/13-nosqldatabase/13.1-learn/</loc>
+    <loc>//localhost:59328/13-nosqldatabase/13.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/13-nosqldatabase/13.1-learn/"
+                href="//localhost:59328/vi/13-nosqldatabase/13.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/13-nosqldatabase/13.1-learn/"
+                href="//localhost:59328/13-nosqldatabase/13.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/14-scaling/14.1-learn/</loc>
+    <loc>//localhost:59328/14-scaling/14.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/14-scaling/14.1-learn/"
+                href="//localhost:59328/vi/14-scaling/14.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/14-scaling/14.1-learn/"
+                href="//localhost:59328/14-scaling/14.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/15-highlyavailable/15.1-learn/</loc>
+    <loc>//localhost:59328/15-highlyavailable/15.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/15-highlyavailable/15.1-learn/"
+                href="//localhost:59328/vi/15-highlyavailable/15.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/15-highlyavailable/15.1-learn/"
+                href="//localhost:59328/15-highlyavailable/15.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-staticwebhosting/4.1-learn/</loc>
+    <loc>//localhost:59328/4-staticwebhosting/4.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-staticwebhosting/4.1-learn/"
+                href="//localhost:59328/vi/4-staticwebhosting/4.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-staticwebhosting/4.1-learn/"
+                href="//localhost:59328/4-staticwebhosting/4.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-amazonec2/5.1-learn/</loc>
+    <loc>//localhost:59328/5-amazonec2/5.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-amazonec2/5.1-learn/"
+                href="//localhost:59328/vi/5-amazonec2/5.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-amazonec2/5.1-learn/"
+                href="//localhost:59328/5-amazonec2/5.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-ec2connect/6.1-learn/</loc>
+    <loc>//localhost:59328/6-ec2connect/6.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-ec2connect/6.1-learn/"
+                href="//localhost:59328/vi/6-ec2connect/6.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-ec2connect/6.1-learn/"
+                href="//localhost:59328/6-ec2connect/6.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-vpc/7.1-learn/</loc>
+    <loc>//localhost:59328/7-vpc/7.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-vpc/7.1-learn/"
+                href="//localhost:59328/vi/7-vpc/7.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-vpc/7.1-learn/"
+                href="//localhost:59328/7-vpc/7.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-awspricingcalculator/8.1-learn/</loc>
+    <loc>//localhost:59328/8-awspricingcalculator/8.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-awspricingcalculator/8.1-learn/"
+                href="//localhost:59328/vi/8-awspricingcalculator/8.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-awspricingcalculator/8.1-learn/"
+                href="//localhost:59328/8-awspricingcalculator/8.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/9-connectvpc/9.1-learn/</loc>
+    <loc>//localhost:59328/9-connectvpc/9.1-learn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-connectvpc/9.1-learn/"
+                href="//localhost:59328/vi/9-connectvpc/9.1-learn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-connectvpc/9.1-learn/"
+                href="//localhost:59328/9-connectvpc/9.1-learn/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-awscloudquest/3.1-enroll/</loc>
+    <loc>//localhost:59328/3-awscloudquest/3.1-enroll/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-awscloudquest/3.1-enroll/"
+                href="//localhost:59328/vi/3-awscloudquest/3.1-enroll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-awscloudquest/3.1-enroll/"
+                href="//localhost:59328/3-awscloudquest/3.1-enroll/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-awscloudquest/3.2-customprofile/</loc>
+    <loc>//localhost:59328/3-awscloudquest/3.2-customprofile/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-awscloudquest/3.2-customprofile/"
+                href="//localhost:59328/vi/3-awscloudquest/3.2-customprofile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-awscloudquest/3.2-customprofile/"
+                href="//localhost:59328/3-awscloudquest/3.2-customprofile/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-prerequiste/2.2-signin/</loc>
+    <loc>//localhost:59328/2-prerequiste/2.2-signin/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/2.2-signin/"
+                href="//localhost:59328/vi/2-prerequiste/2.2-signin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/2.2-signin/"
+                href="//localhost:59328/2-prerequiste/2.2-signin/"
                 />
   </url><url>
-    <loc>//localhost:1313/10-database/10.2-plan/</loc>
+    <loc>//localhost:59328/10-database/10.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-database/10.2-plan/"
+                href="//localhost:59328/vi/10-database/10.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-database/10.2-plan/"
+                href="//localhost:59328/10-database/10.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/11-security/11.2-plan/</loc>
+    <loc>//localhost:59328/11-security/11.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/11-security/11.2-plan/"
+                href="//localhost:59328/vi/11-security/11.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/11-security/11.2-plan/"
+                href="//localhost:59328/11-security/11.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/12-filesystems/12.2-plan/</loc>
+    <loc>//localhost:59328/12-filesystems/12.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/12-filesystems/12.2-plan/"
+                href="//localhost:59328/vi/12-filesystems/12.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/12-filesystems/12.2-plan/"
+                href="//localhost:59328/12-filesystems/12.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/13-nosqldatabase/13.2-plan/</loc>
+    <loc>//localhost:59328/13-nosqldatabase/13.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/13-nosqldatabase/13.2-plan/"
+                href="//localhost:59328/vi/13-nosqldatabase/13.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/13-nosqldatabase/13.2-plan/"
+                href="//localhost:59328/13-nosqldatabase/13.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/14-scaling/14.2-plan/</loc>
+    <loc>//localhost:59328/14-scaling/14.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/14-scaling/14.2-plan/"
+                href="//localhost:59328/vi/14-scaling/14.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/14-scaling/14.2-plan/"
+                href="//localhost:59328/14-scaling/14.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/15-highlyavailable/15.2-plan/</loc>
+    <loc>//localhost:59328/15-highlyavailable/15.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/15-highlyavailable/15.2-plan/"
+                href="//localhost:59328/vi/15-highlyavailable/15.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/15-highlyavailable/15.2-plan/"
+                href="//localhost:59328/15-highlyavailable/15.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-staticwebhosting/4.2-plan/</loc>
+    <loc>//localhost:59328/4-staticwebhosting/4.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-staticwebhosting/4.2-plan/"
+                href="//localhost:59328/vi/4-staticwebhosting/4.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-staticwebhosting/4.2-plan/"
+                href="//localhost:59328/4-staticwebhosting/4.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-amazonec2/5.2-plan/</loc>
+    <loc>//localhost:59328/5-amazonec2/5.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-amazonec2/5.2-plan/"
+                href="//localhost:59328/vi/5-amazonec2/5.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-amazonec2/5.2-plan/"
+                href="//localhost:59328/5-amazonec2/5.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-ec2connect/6.2-plan/</loc>
+    <loc>//localhost:59328/6-ec2connect/6.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-ec2connect/6.2-plan/"
+                href="//localhost:59328/vi/6-ec2connect/6.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-ec2connect/6.2-plan/"
+                href="//localhost:59328/6-ec2connect/6.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-vpc/7.2-plan/</loc>
+    <loc>//localhost:59328/7-vpc/7.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-vpc/7.2-plan/"
+                href="//localhost:59328/vi/7-vpc/7.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-vpc/7.2-plan/"
+                href="//localhost:59328/7-vpc/7.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-awspricingcalculator/8.2-plan/</loc>
+    <loc>//localhost:59328/8-awspricingcalculator/8.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-awspricingcalculator/8.2-plan/"
+                href="//localhost:59328/vi/8-awspricingcalculator/8.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-awspricingcalculator/8.2-plan/"
+                href="//localhost:59328/8-awspricingcalculator/8.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/9-connectvpc/9.2-plan/</loc>
+    <loc>//localhost:59328/9-connectvpc/9.2-plan/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-connectvpc/9.2-plan/"
+                href="//localhost:59328/vi/9-connectvpc/9.2-plan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-connectvpc/9.2-plan/"
+                href="//localhost:59328/9-connectvpc/9.2-plan/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-prerequiste/</loc>
+    <loc>//localhost:59328/2-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-prerequiste/"
+                href="//localhost:59328/vi/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-prerequiste/"
+                href="//localhost:59328/2-prerequiste/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-awscloudquest/</loc>
+    <loc>//localhost:59328/3-awscloudquest/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-awscloudquest/"
+                href="//localhost:59328/vi/3-awscloudquest/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-awscloudquest/"
+                href="//localhost:59328/3-awscloudquest/"
                 />
   </url><url>
-    <loc>//localhost:1313/10-database/10.3-practice/</loc>
+    <loc>//localhost:59328/10-database/10.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-database/10.3-practice/"
+                href="//localhost:59328/vi/10-database/10.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-database/10.3-practice/"
+                href="//localhost:59328/10-database/10.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/11-security/11.3-practice/</loc>
+    <loc>//localhost:59328/11-security/11.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/11-security/11.3-practice/"
+                href="//localhost:59328/vi/11-security/11.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/11-security/11.3-practice/"
+                href="//localhost:59328/11-security/11.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/12-filesystems/12.3-practice/</loc>
+    <loc>//localhost:59328/12-filesystems/12.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/12-filesystems/12.3-practice/"
+                href="//localhost:59328/vi/12-filesystems/12.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/12-filesystems/12.3-practice/"
+                href="//localhost:59328/12-filesystems/12.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/13-nosqldatabase/13.3-practice/</loc>
+    <loc>//localhost:59328/13-nosqldatabase/13.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/13-nosqldatabase/13.3-practice/"
+                href="//localhost:59328/vi/13-nosqldatabase/13.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/13-nosqldatabase/13.3-practice/"
+                href="//localhost:59328/13-nosqldatabase/13.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/14-scaling/14.3-practice/</loc>
+    <loc>//localhost:59328/14-scaling/14.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/14-scaling/14.3-practice/"
+                href="//localhost:59328/vi/14-scaling/14.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/14-scaling/14.3-practice/"
+                href="//localhost:59328/14-scaling/14.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/15-highlyavailable/15.3-practice/</loc>
+    <loc>//localhost:59328/15-highlyavailable/15.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/15-highlyavailable/15.3-practice/"
+                href="//localhost:59328/vi/15-highlyavailable/15.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/15-highlyavailable/15.3-practice/"
+                href="//localhost:59328/15-highlyavailable/15.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-staticwebhosting/4.3-practice/</loc>
+    <loc>//localhost:59328/4-staticwebhosting/4.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-staticwebhosting/4.3-practice/"
+                href="//localhost:59328/vi/4-staticwebhosting/4.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-staticwebhosting/4.3-practice/"
+                href="//localhost:59328/4-staticwebhosting/4.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-amazonec2/5.3-practice/</loc>
+    <loc>//localhost:59328/5-amazonec2/5.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-amazonec2/5.3-practice/"
+                href="//localhost:59328/vi/5-amazonec2/5.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-amazonec2/5.3-practice/"
+                href="//localhost:59328/5-amazonec2/5.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-ec2connect/6.3-practice/</loc>
+    <loc>//localhost:59328/6-ec2connect/6.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-ec2connect/6.3-practice/"
+                href="//localhost:59328/vi/6-ec2connect/6.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-ec2connect/6.3-practice/"
+                href="//localhost:59328/6-ec2connect/6.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-vpc/7.3-practice/</loc>
+    <loc>//localhost:59328/7-vpc/7.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-vpc/7.3-practice/"
+                href="//localhost:59328/vi/7-vpc/7.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-vpc/7.3-practice/"
+                href="//localhost:59328/7-vpc/7.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-awspricingcalculator/8.3-practice/</loc>
+    <loc>//localhost:59328/8-awspricingcalculator/8.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-awspricingcalculator/8.3-practice/"
+                href="//localhost:59328/vi/8-awspricingcalculator/8.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-awspricingcalculator/8.3-practice/"
+                href="//localhost:59328/8-awspricingcalculator/8.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/9-connectvpc/9.3-practice/</loc>
+    <loc>//localhost:59328/9-connectvpc/9.3-practice/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-connectvpc/9.3-practice/"
+                href="//localhost:59328/vi/9-connectvpc/9.3-practice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-connectvpc/9.3-practice/"
+                href="//localhost:59328/9-connectvpc/9.3-practice/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-staticwebhosting/</loc>
+    <loc>//localhost:59328/4-staticwebhosting/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-staticwebhosting/"
+                href="//localhost:59328/vi/4-staticwebhosting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-staticwebhosting/"
+                href="//localhost:59328/4-staticwebhosting/"
                 />
   </url><url>
-    <loc>//localhost:1313/10-database/10.4-diy/</loc>
+    <loc>//localhost:59328/10-database/10.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-database/10.4-diy/"
+                href="//localhost:59328/vi/10-database/10.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-database/10.4-diy/"
+                href="//localhost:59328/10-database/10.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/11-security/11.4-diy/</loc>
+    <loc>//localhost:59328/11-security/11.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/11-security/11.4-diy/"
+                href="//localhost:59328/vi/11-security/11.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/11-security/11.4-diy/"
+                href="//localhost:59328/11-security/11.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/12-filesystems/12.4-diy/</loc>
+    <loc>//localhost:59328/12-filesystems/12.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/12-filesystems/12.4-diy/"
+                href="//localhost:59328/vi/12-filesystems/12.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/12-filesystems/12.4-diy/"
+                href="//localhost:59328/12-filesystems/12.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/13-nosqldatabase/13.4-diy/</loc>
+    <loc>//localhost:59328/13-nosqldatabase/13.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/13-nosqldatabase/13.4-diy/"
+                href="//localhost:59328/vi/13-nosqldatabase/13.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/13-nosqldatabase/13.4-diy/"
+                href="//localhost:59328/13-nosqldatabase/13.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/14-scaling/14.4-diy/</loc>
+    <loc>//localhost:59328/14-scaling/14.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/14-scaling/14.4-diy/"
+                href="//localhost:59328/vi/14-scaling/14.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/14-scaling/14.4-diy/"
+                href="//localhost:59328/14-scaling/14.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/15-highlyavailable/15.4-diy/</loc>
+    <loc>//localhost:59328/15-highlyavailable/15.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/15-highlyavailable/15.4-diy/"
+                href="//localhost:59328/vi/15-highlyavailable/15.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/15-highlyavailable/15.4-diy/"
+                href="//localhost:59328/15-highlyavailable/15.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-staticwebhosting/4.4-diy/</loc>
+    <loc>//localhost:59328/4-staticwebhosting/4.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-staticwebhosting/4.4-diy/"
+                href="//localhost:59328/vi/4-staticwebhosting/4.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-staticwebhosting/4.4-diy/"
+                href="//localhost:59328/4-staticwebhosting/4.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-amazonec2/5.4-diy/</loc>
+    <loc>//localhost:59328/5-amazonec2/5.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-amazonec2/5.4-diy/"
+                href="//localhost:59328/vi/5-amazonec2/5.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-amazonec2/5.4-diy/"
+                href="//localhost:59328/5-amazonec2/5.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-ec2connect/6.4-diy/</loc>
+    <loc>//localhost:59328/6-ec2connect/6.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-ec2connect/6.4-diy/"
+                href="//localhost:59328/vi/6-ec2connect/6.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-ec2connect/6.4-diy/"
+                href="//localhost:59328/6-ec2connect/6.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-vpc/7.4-diy/</loc>
+    <loc>//localhost:59328/7-vpc/7.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-vpc/7.4-diy/"
+                href="//localhost:59328/vi/7-vpc/7.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-vpc/7.4-diy/"
+                href="//localhost:59328/7-vpc/7.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-awspricingcalculator/8.4-diy/</loc>
+    <loc>//localhost:59328/8-awspricingcalculator/8.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-awspricingcalculator/8.4-diy/"
+                href="//localhost:59328/vi/8-awspricingcalculator/8.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-awspricingcalculator/8.4-diy/"
+                href="//localhost:59328/8-awspricingcalculator/8.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/9-connectvpc/9.4-diy/</loc>
+    <loc>//localhost:59328/9-connectvpc/9.4-diy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-connectvpc/9.4-diy/"
+                href="//localhost:59328/vi/9-connectvpc/9.4-diy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-connectvpc/9.4-diy/"
+                href="//localhost:59328/9-connectvpc/9.4-diy/"
                 />
   </url><url>
-    <loc>//localhost:1313/5-amazonec2/</loc>
+    <loc>//localhost:59328/5-amazonec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/5-amazonec2/"
+                href="//localhost:59328/vi/5-amazonec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/5-amazonec2/"
+                href="//localhost:59328/5-amazonec2/"
                 />
   </url><url>
-    <loc>//localhost:1313/6-ec2connect/</loc>
+    <loc>//localhost:59328/6-ec2connect/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/6-ec2connect/"
+                href="//localhost:59328/vi/6-ec2connect/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/6-ec2connect/"
+                href="//localhost:59328/6-ec2connect/"
                 />
   </url><url>
-    <loc>//localhost:1313/7-vpc/</loc>
+    <loc>//localhost:59328/7-vpc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/7-vpc/"
+                href="//localhost:59328/vi/7-vpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/7-vpc/"
+                href="//localhost:59328/7-vpc/"
                 />
   </url><url>
-    <loc>//localhost:1313/8-awspricingcalculator/</loc>
+    <loc>//localhost:59328/8-awspricingcalculator/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/8-awspricingcalculator/"
+                href="//localhost:59328/vi/8-awspricingcalculator/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/8-awspricingcalculator/"
+                href="//localhost:59328/8-awspricingcalculator/"
                 />
   </url><url>
-    <loc>//localhost:1313/9-connectvpc/</loc>
+    <loc>//localhost:59328/9-connectvpc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/9-connectvpc/"
+                href="//localhost:59328/vi/9-connectvpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/9-connectvpc/"
+                href="//localhost:59328/9-connectvpc/"
                 />
   </url><url>
-    <loc>//localhost:1313/10-database/</loc>
+    <loc>//localhost:59328/10-database/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/10-database/"
+                href="//localhost:59328/vi/10-database/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/10-database/"
+                href="//localhost:59328/10-database/"
                 />
   </url><url>
-    <loc>//localhost:1313/11-security/</loc>
+    <loc>//localhost:59328/11-security/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/11-security/"
+                href="//localhost:59328/vi/11-security/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/11-security/"
+                href="//localhost:59328/11-security/"
                 />
   </url><url>
-    <loc>//localhost:1313/12-filesystems/</loc>
+    <loc>//localhost:59328/12-filesystems/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/12-filesystems/"
+                href="//localhost:59328/vi/12-filesystems/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/12-filesystems/"
+                href="//localhost:59328/12-filesystems/"
                 />
   </url><url>
-    <loc>//localhost:1313/13-nosqldatabase/</loc>
+    <loc>//localhost:59328/13-nosqldatabase/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/13-nosqldatabase/"
+                href="//localhost:59328/vi/13-nosqldatabase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/13-nosqldatabase/"
+                href="//localhost:59328/13-nosqldatabase/"
                 />
   </url><url>
-    <loc>//localhost:1313/14-scaling/</loc>
+    <loc>//localhost:59328/14-scaling/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/14-scaling/"
+                href="//localhost:59328/vi/14-scaling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/14-scaling/"
+                href="//localhost:59328/14-scaling/"
                 />
   </url><url>
-    <loc>//localhost:1313/15-highlyavailable/</loc>
+    <loc>//localhost:59328/15-highlyavailable/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/15-highlyavailable/"
+                href="//localhost:59328/vi/15-highlyavailable/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/15-highlyavailable/"
+                href="//localhost:59328/15-highlyavailable/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:59328/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="//localhost:59328/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="//localhost:59328/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:59328/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="//localhost:59328/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="//localhost:59328/tags/"
                 />
   </url>
 </urlset>

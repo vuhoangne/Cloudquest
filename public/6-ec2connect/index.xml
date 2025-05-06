@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A3 - Connect to an EC2 Instance on AWS Account Setup</title>
-    <link>//localhost:1313/6-ec2connect/</link>
+    <link>//localhost:59328/6-ec2connect/</link>
     <description>Recent content in A3 - Connect to an EC2 Instance on AWS Account Setup</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/6-ec2connect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:59328/6-ec2connect/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

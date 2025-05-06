@@ -86,14 +86,14 @@ After watching **Plan**, the player prepares for **Practice**
 - Read Step 6 of **Cloud Computing Essentials**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/010-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0010-practice.png?width=90pc)
 
 11. In **Rename object**
 
 - Change the name to **error.html**
 - Select **Save changes**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/011-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0011-practice.png?width=90pc)
 
 12. In the **Practice** interface
 
@@ -101,13 +101,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/012-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0012-practice.png?width=90pc)
 
 13. In the **personal** interface 
 - Select **Permissions**
 - Review
 
-![Practice](/images/4-staticwebhosting/4.3-practice/013-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0013-practice.png?width=90pc)
 
 14. In the **Practice** interface
 
@@ -115,13 +115,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
   
-![Practice](/images/4-staticwebhosting/4.3-practice/014-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0014-practice.png?width=90pc)
 
 15. In the **personal** interface
 
 - Scroll down and review 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/015-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0015-practice.png?width=90pc)
 
 16. In the **Practice** interface
 
@@ -129,13 +129,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/016-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0016-practice.png?width=90pc)
 
 17. In the **personal** interface
 
 - Scroll down and review **Buckets policy** 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/017-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0017-practice.png?width=90pc)
 
 18. In the **Practice** interface
 
@@ -143,13 +143,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
   
-![Practice](/images/4-staticwebhosting/4.3-practice/018-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0018-practice.png?width=90pc)
 
 19. In the **personal** interface
 
 - Click **Properties**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/019-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0019-practice.png?width=90pc)
 
 20. In the **Practice** interface
 
@@ -157,13 +157,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/020-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0020-practice.png?width=90pc)
 
 21. In the **personal** interface
 
 - Scroll down and review
 
-![Practice](/images/4-staticwebhosting/4.3-practice/021-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0021-practice.png?width=90pc)
 
 22. In the **Practice** interface
 
@@ -171,13 +171,13 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/022-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0022-practice.png?width=90pc)
 
 23. In the **personal** interface
 
 - Scroll down to **static web hosting** and click **Edit**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/023-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0023-practice.png?width=90pc)
 
 24. In the **Practice** interface
 
@@ -185,7 +185,7 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/024-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0024-practice.png?width=90pc)
 
 25. In the **personal** interface
 - In **Edit Static website hosting**
@@ -194,33 +194,33 @@ After watching **Plan**, the player prepares for **Practice**
 - Enter ```index.html``` 
 - Enter ```error.html```
 
-![Practice](/images/4-staticwebhosting/4.3-practice/025-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0025-practice.png?width=90pc)
 
 26. In the **Practice** interface
 
 - Read Step 14 of **Cloud Computing Essentials**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/026-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0026-practice.png?width=90pc)
 
 27. In the **personal** interface
 
 - Scroll down and select **Save Changes**
 
-![Practice](/images/4-staticwebhosting/4.3-practice/027-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0027-practice.png?width=90pc)
 
 28. In the **Practice** interface
 
 - Read Step 15 of **Cloud Computing Essentials**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/028-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0028-practice.png?width=90pc)
 
 29. In the **personal** interface
 
 - Click the **Bucket website endpoint** link
 
-![Practice](/images/4-staticwebhosting/4.3-practice/029-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0029-practice.png?width=90pc)
 
 30. In the **Practice** interface
 
@@ -228,16 +228,16 @@ After watching **Plan**, the player prepares for **Practice**
 - Read **CONCEPT**
 - Click the right arrow to see the next steps
 
-![Practice](/images/4-staticwebhosting/4.3-practice/030-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0030-practice.png?width=90pc)
 
 31. In the **personal** interface
 
 - Paste the link into your browser’s address bar and press **Enter** 
 
-![Practice](/images/4-staticwebhosting/4.3-practice/031-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0031-practice.png?width=90pc)
 
 32. In the **Practice** interface
 
 - Congratulations, you have completed the lab
 
-![Practice](/images/4-staticwebhosting/4.3-practice/032-practice.png?width=90pc)
+![Practice](/images/4-staticwebhosting/4.3-practice/0032-practice.png?width=90pc)

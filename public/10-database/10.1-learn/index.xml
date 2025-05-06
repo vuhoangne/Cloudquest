@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn on AWS Account Setup</title>
-    <link>//localhost:1313/10-database/10.1-learn/</link>
+    <link>//localhost:59328/10-database/10.1-learn/</link>
     <description>Recent content in Learn on AWS Account Setup</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/10-database/10.1-learn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:59328/10-database/10.1-learn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
